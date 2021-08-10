@@ -1,6 +1,5 @@
 {
-  "name": "drail-resume-builder",
-  "homepage": "https://yashrajb.github.io/Drail-Resume-Builder",
+  "name": "test-app",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -10,6 +9,7 @@
     "availity-reactstrap-validation": "^2.7.1",
     "babel-eslint": "^10.0.3",
     "bootstrap": "^4.3.1",
+    "firebase": "^8.9.0",
     "gh-pages": "^2.2.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -48,5 +48,16 @@
   },
   "devDependencies": {
     "http-server": "^0.12.3"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishat-1998/Resume-Builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishat-1998/Resume-Builder/issues"
   }
 }
